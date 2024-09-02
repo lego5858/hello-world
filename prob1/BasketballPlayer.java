@@ -1,9 +1,12 @@
 package prob1;
 
 /**
- * Represents a baskeball player
- *
- */
+
+* Represents a baskeball playerZZZ
+
+*
+
+*/
 public class BasketballPlayer {
 
 	/**
